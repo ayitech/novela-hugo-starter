@@ -4,3 +4,6 @@ hero:
   maxWidthPX: "652"
 
 ---
+Type something...
+
+![](/images/resources-1400x642.jpg)
